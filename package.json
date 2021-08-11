@@ -1,0 +1,19 @@
+{
+  "name": "brutal-slider",
+  "version": "1.0.0",
+  "description": "Small slider that can respond many needs.",
+  "main": "BrutalSlider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adobrin7/BrutalSlider.git"
+  },
+  "author": "Alexandr Dobrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adobrin7/BrutalSlider/issues"
+  },
+  "homepage": "https://github.com/adobrin7/BrutalSlider#readme"
+}
